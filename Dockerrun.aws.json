@@ -10,7 +10,7 @@
   ],
   "Volumes": [
     {
-      "HostDirectory": "/var/app",
+      "HostDirectory": "/var/app/current",
       "ContainerDirectory": "/app"
     }
   ],
